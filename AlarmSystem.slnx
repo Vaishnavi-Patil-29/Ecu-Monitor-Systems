@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AlarmSystem/AlarmSystemHMI.csproj" />
+  <Project Path="AlarmSystemHMI.UI/alarmsystemhmi.ui.client/alarmsystemhmi.ui.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AlarmSystemHMI.UI/AlarmSystemHMI.UI.Server/AlarmSystemHMI.UI.Server.csproj" />
+</Solution>
